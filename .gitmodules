@@ -8,3 +8,6 @@
 [submodule "rio"]
 	path = rio
 	url = https://github.com/gesistsa/rio
+[submodule "rtoot"]
+	path = rtoot
+	url = https://github.com/gesistsa/rtoot
