@@ -11,3 +11,6 @@
 [submodule "rtoot"]
 	path = rtoot
 	url = https://github.com/gesistsa/rtoot
+[submodule "sweater"]
+	path = sweater
+	url = https://github.com/gesistsa/sweater
