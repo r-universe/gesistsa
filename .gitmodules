@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "adaR"]
+	path = adaR
+	url = https://github.com/gesistsa/adar
 [submodule "rang"]
 	path = rang
 	url = https://github.com/gesistsa/rang
