@@ -5,6 +5,9 @@
 [submodule "adaR"]
 	path = adaR
 	url = https://github.com/gesistsa/adar
+[submodule "grafzahl"]
+	path = grafzahl
+	url = https://github.com/gesistsa/grafzahl
 [submodule "oolong"]
 	path = oolong
 	url = https://github.com/gesistsa/oolong
