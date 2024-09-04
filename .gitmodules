@@ -26,3 +26,6 @@
 [submodule "sweater"]
 	path = sweater
 	url = https://github.com/gesistsa/sweater
+[submodule "webtrackR"]
+	path = webtrackR
+	url = https://github.com/gesistsa/webtrackr
