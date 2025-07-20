@@ -1,0 +1,20 @@
+[
+  {
+    "package": "crul",
+    "url": "https://github.com/ropensci/crul",
+    "via": ["rtoot", "vcr"],
+    "from": "rtoot"
+  },
+  {
+    "package": "vcr",
+    "url": "https://github.com/ropensci/vcr",
+    "via": ["rtoot"],
+    "from": "rtoot"
+  },
+  {
+    "package": "webmockr",
+    "url": "https://github.com/ropensci/webmockr",
+    "via": ["rtoot", "vcr", "crul"],
+    "from": "rtoot"
+  }
+]
