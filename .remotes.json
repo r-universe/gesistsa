@@ -10,11 +10,5 @@
     "url": "https://github.com/ropensci/vcr",
     "via": ["rtoot"],
     "from": "rtoot"
-  },
-  {
-    "package": "webmockr",
-    "url": "https://github.com/ropensci/webmockr",
-    "via": ["rtoot", "vcr", "crul"],
-    "from": "rtoot"
   }
 ]
