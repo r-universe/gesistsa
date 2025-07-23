@@ -5,10 +5,6 @@
 [submodule "adaR"]
 	path = adaR
 	url = https://github.com/gesistsa/adar
-[submodule "crul"]
-	path = crul
-	url = https://github.com/ropensci/crul
-	registered = false
 [submodule "grafzahl"]
 	path = grafzahl
 	url = https://github.com/gesistsa/grafzahl
@@ -30,10 +26,6 @@
 [submodule "sweater"]
 	path = sweater
 	url = https://github.com/gesistsa/sweater
-[submodule "vcr"]
-	path = vcr
-	url = https://github.com/ropensci/vcr
-	registered = false
 [submodule "webtrackR"]
 	path = webtrackR
 	url = https://github.com/gesistsa/webtrackr
