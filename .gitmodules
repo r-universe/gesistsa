@@ -8,9 +8,6 @@
 [submodule "grafzahl"]
 	path = grafzahl
 	url = https://github.com/gesistsa/grafzahl
-[submodule "minty"]
-	path = minty
-	url = https://github.com/gesistsa/minty
 [submodule "oolong"]
 	path = oolong
 	url = https://github.com/gesistsa/oolong
